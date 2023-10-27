@@ -12,8 +12,8 @@ team1 = {
 
 team2 = {
     "name": "ManUnited",
-    "attack": 65,
-    "defense": 35,
+    "attack": 55,
+    "defense": 55,
     "midfield": 60
 }
 
